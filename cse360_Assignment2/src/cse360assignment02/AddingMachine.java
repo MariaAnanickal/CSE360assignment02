@@ -6,7 +6,13 @@ package cse360assignment02;
  * @version 1.1
  */
 public class AddingMachine {
+	   /**
+	   * calculated total integer value
+	   */
 	  private int total = 0;
+	  /**
+	   * string of all operations called and values passed in
+	   */
 	  private String output = "0";
 	  /**
 	   * constructor for the AddingMachine class
